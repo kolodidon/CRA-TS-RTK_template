@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRA-TS-RTK_template/static/css/main.5f63ba26.chunk.css",
+    "main.js": "/CRA-TS-RTK_template/static/js/main.edb8719f.chunk.js",
+    "main.js.map": "/CRA-TS-RTK_template/static/js/main.edb8719f.chunk.js.map",
+    "runtime-main.js": "/CRA-TS-RTK_template/static/js/runtime-main.7d05d09b.js",
+    "runtime-main.js.map": "/CRA-TS-RTK_template/static/js/runtime-main.7d05d09b.js.map",
+    "static/js/2.e0498cd0.chunk.js": "/CRA-TS-RTK_template/static/js/2.e0498cd0.chunk.js",
+    "static/js/2.e0498cd0.chunk.js.map": "/CRA-TS-RTK_template/static/js/2.e0498cd0.chunk.js.map",
+    "static/js/3.0709d3b4.chunk.js": "/CRA-TS-RTK_template/static/js/3.0709d3b4.chunk.js",
+    "static/js/3.0709d3b4.chunk.js.map": "/CRA-TS-RTK_template/static/js/3.0709d3b4.chunk.js.map",
+    "index.html": "/CRA-TS-RTK_template/index.html",
+    "static/css/main.5f63ba26.chunk.css.map": "/CRA-TS-RTK_template/static/css/main.5f63ba26.chunk.css.map",
+    "static/js/2.e0498cd0.chunk.js.LICENSE.txt": "/CRA-TS-RTK_template/static/js/2.e0498cd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d05d09b.js",
+    "static/js/2.e0498cd0.chunk.js",
+    "static/css/main.5f63ba26.chunk.css",
+    "static/js/main.edb8719f.chunk.js"
+  ]
+}
